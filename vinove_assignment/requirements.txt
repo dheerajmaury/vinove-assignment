@@ -1,0 +1,6 @@
+psutil
+boto3
+numpy
+Pillow
+pyautogui
+pynput
