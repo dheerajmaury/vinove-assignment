@@ -20,7 +20,7 @@ screenshot_interval = 5  # in minutes
 capture_screenshots = True
 capture_blurred = False
 capturing = False
-aws_bucket_name = 'adityasinghbucket'  # Replace with your actual bucket name
+aws_bucket_name = 'adityasinghbucke'  # Replace with your actual bucket name
 aws_region = 'us-east-1'  # Replace with your AWS region, e.g., 'us-west-2'
 offline_queue = queue.Queue()  # Queue to store offline uploads
 
